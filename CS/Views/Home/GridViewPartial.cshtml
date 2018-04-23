@@ -1,0 +1,8 @@
+@Html.DevExpress().GridView(settings => {
+    settings.Name = "GridView";
+    settings.KeyFieldName = "Id";
+    settings.CallbackRouteValues = new { Controller = "Home", Action = "GridViewPartial" };
+    settings.Columns.Add("Description"); 
+    settings.Columns.Add("Price"); 
+    settings.Columns.Add("RegisterDate");
+}).Bind(Model).GetHtml()
