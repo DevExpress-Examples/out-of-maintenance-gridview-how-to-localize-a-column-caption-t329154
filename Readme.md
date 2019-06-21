@@ -8,6 +8,9 @@
 * [Index.cshtml](./CS/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # GridView - How to localize a column caption
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t329154)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to localize a column caption by using the <a href="https://msdn.microsoft.com/en-us/library/system.componentmodel.dataannotations.displayattribute.aspx">DisplayAttribute</a> class from the System.ComponentModel.DataAnnotations namespace. Here is a code snippet that illustrates this:</p>
