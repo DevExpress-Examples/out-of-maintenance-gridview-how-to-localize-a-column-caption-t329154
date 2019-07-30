@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # GridView - How to localize a column caption
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t329154)**
+**[[Run Online]](https://codecentral.devexpress.com/t329154/)**
 <!-- run online end -->
 
 
