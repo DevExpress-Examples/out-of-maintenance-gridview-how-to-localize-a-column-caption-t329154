@@ -1,11 +1,11 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
-* [CustomLocalizationHelper.cs](./CS/Models/CustomLocalizationHelper.cs) (VB: [CustomLocalizationHelper.vb](./VB/Models/CustomLocalizationHelper.vb))
-* [Invoice.cs](./CS/Models/Invoice.cs) (VB: [Invoice.vb](./VB/Models/Invoice.vb))
-* [GridViewPartial.cshtml](./CS/Views/Home/GridViewPartial.cshtml)
-* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+* [HomeController.cs](./CS/t329154/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/t329154VB/Controllers/HomeController.vb))
+* [CustomLocalizationHelper.cs](./CS/t329154/Models/CustomLocalizationHelper.cs) (VB: [CustomLocalizationHelper.vb](./VB/t329154VB/Models/CustomLocalizationHelper.vb))
+* [Invoice.cs](./CS/t329154/Models/Invoice.cs) (VB: [Invoice.vb](./VB/t329154VB/Models/Invoice.vb))
+* [GridViewPartial.cshtml](./CS/t329154/Views/Home/GridViewPartial.cshtml)
+* [Index.cshtml](./CS/t329154/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # GridView - How to localize a column caption
 <!-- run online -->

@@ -1,1 +1,0 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="GridViewLocalizeColumnCaptionMvc.MvcApplication" Language="vb" %>
